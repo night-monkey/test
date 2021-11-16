@@ -1,5 +1,4 @@
-# test
-ccccc# Tặng Crush
+# Tặng Crush
 ## _Một điều nho nhỏ tỏ tình với crush_
 
 Liên lạc: 
@@ -26,5 +25,4 @@ const CONFIG = {
     messLink: 'https://www.facebook.com/' //link mess của các bạn. VD: https://m.me/name.nodemy
 }
 ```
-
 
